@@ -1,9 +1,6 @@
-# Engineering Tools
+This folder contains some documentations for this repository:
 
-All the tools/utilities used in Microsoft Azure Java SDK's build config are defined here.
+The folder structure is the following
+- [dev](https://github.com/Azure/azure-sdk-for-java/blob/main/doc/dev) : contains advanced documentation for _developers_ of SDK (not _consumers_ of SDK)
 
-- `common` - Set of common engineering scripts that sync from our azure-sdk-tools repo. Generally shouldn't be edited directly in this repo.
-
-- `pipelines` - Directory that contains yml files for our DevOps pipelines or supporting yml templates for them. 
-
-![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-java%2Feng%2FREADME.png)
+![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-java%2Fdoc%2FREADME.png)
